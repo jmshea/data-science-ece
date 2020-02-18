@@ -1,6 +1,4 @@
 name: datas-science-ece
-channels:
-  - conda-forge
 dependencies:
   - numpy
   - matplotlib
